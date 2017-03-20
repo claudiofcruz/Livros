@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Livros</string>
+    <string name="title_activity_login">Login</string>
+
+    <!-- Strings related to Main Navigation -->
+    <string name="book_list">Lista de Livros</string>
+    <string name="about">Sobre</string>
+    <string name="exit">Saída</string>
+    <string name="book">Livro</string>
+    <string name="book_description">Descrição do Livro</string>
+
+
+    <!-- Strings related to Splash Screen -->
+    <string name="permissionnotallowed">Permissão para acesso a internet é obrigatória!</string>
+
+    <!-- Strings related to webService -->
+    <string name="jsongetdata">Falha ao obter dados do webservice.</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Usuário</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha</string>
+    <string name="prompt_login">Login</string>
+    <string name="prompt_keepLogged">Mantenha Logado</string>
+    <string name="login_failed">Falha no Login</string>
+    <string name="login_invalid">Usuário ou senha inválida.</string>
+    <string name="login_fillfields">Por favor, usuário e senha são obrigatórios.</string>
+    <string name="error_field_required">Este campo é requerido</string>
+    <string name="title_activity_main">Livros</string>
+
+    <string name="navigation_drawer_open">Abrir Menu</string>
+    <string name="navigation_drawer_close">Fechar Menu</string>
+
+    <string name="action_settings">Configurações</string>
+    <string name="action_addbook">Adicionar Livro</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="add_new_book">ADICIONAR NOVO LIVRO</string>
+    <string name="book_name">Nome do Livro</string>
+    <string name="book_author">Nome do Autor</string>
+    <string name="book_desc">Descrição do Livro</string>
+    <string name="book_editor">Nome do Editor</string>
+    <string name="book_add">Adicionar Livro</string>
+    <string name="book_update">Atualizar Livro</string>
+    <string name="all_required">Todos os campos são requeridos.</string>
+    <string name="book_insert_failed">Falha ao adicionar Livro</string>
+    <string name="book_insert_success">Livro Adicionado!</string>
+    <string name="book_update_failed">Falha ao atualizar Livro</string>
+    <string name="book_update_success">Livro Atualizado!</string>
+    <string name="update_book">ATUALIZAR LIVRO</string>
+    <string name="delete_entry">Remover livro </string>
+    <string name="confirm_delete_entry">Você tem certeza que deseja remover este livro?</string>
+    <string name="entry_deleted">Livro Removido!</string>
+
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:duration="75"
+        android:drawable="@drawable/bookshelf01"/>
+
+    <item
+        android:duration="75"
+        android:drawable="@drawable/bookshelf02"/>
+
+    <item
+        android:duration="75"
+        android:drawable="@drawable/bookshelf03"/>
+
+    <item
+        android:duration="75"
+        android:drawable="@drawable/bookshelf04"/>
+
+    <item
+        android:duration="75"
+        android:drawable="@drawable/bookshelf05"/>
+
+    <item
+        android:duration="75"
+        android:drawable="@drawable/bookshelf06"/>
+
+    <item
+        android:duration="75"
+        android:drawable="@drawable/bookshelf07"/>
+
+    <item
+        android:duration="75"
+        android:drawable="@drawable/bookshelf08"/>
+
+    <item
+        android:duration="75"
+        android:drawable="@drawable/bookshelf09"/>
+
+    <item
+        android:duration="75"
+        android:drawable="@drawable/bookshelf10"/>
+
+    <item
+        android:duration="75"
+        android:drawable="@drawable/bookshelf11"/>
+</animation-list>
